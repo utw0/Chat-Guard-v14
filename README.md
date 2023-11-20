@@ -5,7 +5,6 @@
     <br />
     <a href="https://discord.gg/luppux"><strong>Destek Sunucusu »</strong></a>
     <br />
-    <a href="https://vante.dev/">Hesaplarım</a>
   </p>
 </p>
 
