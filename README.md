@@ -1,13 +1,5 @@
 <p align="center">
   <h3 align="center">Chat-Guard-V14</h3>
-
-  <p align="center">
-    <br />
-    <a href="https://discord.gg/luppux"><strong>Destek Sunucusu »</strong></a>
-    <br />
-  </p>
-</p>
-
 # ✨ Proje Hakkında Bilgi
 Discord sunucuları için yapılmış global sohbet koruma botu tüm korumalar var ayarlana bilir dil desteği var ama şuan sadece türkçe var gelişmiş olanı stara göre atabilirim 
 
