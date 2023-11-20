@@ -3,8 +3,8 @@ module.exports = {
     ownerID: ["341592492224806914","852800814808694814"],
     
     Bot: {
-        Token: 'MTAxMDY2NDIzOTU1NzUxMzI2Nw.Gz6ehB.GRaqj-D2XOKJ2pEC1sWlIh2gVYWX4QblFJ2qek',
-        Mongo: 'mongodb+srv://luhux:Utku4545@cluster0.3dsecvl.mongodb.net/roelx?retryWrites=true&w=majority',
+        Token: 'k',
+        Mongo: '',
         Prefix: ["."],
         Language: 'tr',
         
