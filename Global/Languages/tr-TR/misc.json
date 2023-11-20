@@ -1,0 +1,22 @@
+{
+    "ERROR": "Oops! Bir şeyler ters gitti. Lütfen daha sonra tekrar deneyin.",
+    "INCORRECT_FORMAT": "Hop! Bir hata var gibi görünüyor, ama endişelenme. Bunun düzeltilmesi için şu ipucunu takip et:\n\n{{commandExample}}",
+    "HELP_INFO": "```diff\n- Geçersiz argüman kullanıldı\n+ Lütfen aşağıdakileri okuyun ve tekrar deneyin\n\nKullanım: {{USAGE}}```",
+    "ERROR_MESSAGE": "Bir hata oluştu: **{{err}}**.\n\nBu sorun devam ederse, </bug:{{command}}> komutu ile bildirin.",
+    "MISSING_PERMISSION": "Üzgünüm, bu komutu yürütemiyorum çünkü şu izin(ler)e sahip değilim: `{{PERMISSIONS}}`. Lütfen **{{guild}}** sunucusundaki bir yöneticiye bu izinleri vermesini isteyin.",
+    "MISSING_LANGUAGE": "{{emojis:mark}} Üzgünüm, o dili bulamadım.",
+    "MISSING_PREFIX": "{{emojis:mark}} Üzgünüm, o ön eki bulamadım.",
+    "LANGUAGE_SET": "Dil **{{language}}** olarak ayarlandı.",
+    "USER_PERMISSION": "İzin(ler): `{{PERMISSIONS}}` eksik.",
+    "COOLDOWNED": "Bu komutu tekrar çalıştırmadan önce {{TIME}} bekleyin!",
+    "GUILD_ONLY": "Bu komut sadece bir sunucuda mevcut!",
+    "OWNER_ONLY": "Bu komut sadece geliştiricilere özeldir!",
+    "PREFIX_LENGTH": "Önek 3 karakterden uzun olamaz.",
+    "PREFIX": "`Önek`, **{{OLD}}**'den **{{NEW}}**'e başarıyla güncellendi.",
+    "BOT_PREFIX": "Bu sunucudaki komutlar **{{PREFIX}}** ile başlar.",
+    "NEWS": "**__Son haberler:__ {{DATE}}** [`({{DATE2}})`](https://vante.dev/)\n{{NEWS}}",
+    "BUG": "Bir hata buldunuz ya da bir komutun düzgün çalışmadığını düşünüyorsunuz? Geliştiriciyi bildirmek için </bug:{{COMMAND}}> kullanın.",
+    "FEEDBACK": "Bot hakkındaki düşüncelerinizi paylaşmak için </feedback:{{COMMAND}}> kullanarak bize yardımcı olun.",
+    "SUPPORT": "Bize [destek sunucusuna]({{LINK}}) katılın, yardım, güncellemeler, bilinen sorunlar veya botun gelişimine katkıda bulunmak için. Varlığınızı ve katılımınızı memnuniyetle karşılıyoruz!",
+    "FOOTER": "Harika sunucunuzun bir parçası olmama izin verdiğiniz için teşekkür ederim! <3"
+}
